@@ -15,10 +15,8 @@ Qtd	Componente
 1	Placa Arduino UNO
 1	Cabo USB
 1	Protoboard
-1	Resistor de 200 Ω
-1	Resistor de 10 kΩ
+1	Microservo posicional
 1	Botão tipo push button
-1	LED vermelho
-7	Fios de jumper macho-macho
+10	Fios de jumper macho-macho
 
 Link: https://www.tinkercad.com/things/fPYgqob55ti-shiny-turing-bombul/editel?returnTo=%2Fthings%2FfPYgqob55ti-shiny-turing-bombul
