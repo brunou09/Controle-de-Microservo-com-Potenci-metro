@@ -12,11 +12,17 @@ O Arduino lê o estado do botão pelo pino 7
 Controla o LED pelo pino 10
 Materiais necessários
 Qtd	Componente
+
 1	Placa Arduino UNO
+
 1	Cabo USB
+
 1	Protoboard
+
 1	Microservo posicional
+
 1	Botão tipo push button
+
 10	Fios de jumper macho-macho
 
 Link: https://www.tinkercad.com/things/fPYgqob55ti-shiny-turing-bombul/editel?returnTo=%2Fthings%2FfPYgqob55ti-shiny-turing-bombul
